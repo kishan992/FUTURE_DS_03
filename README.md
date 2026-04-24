@@ -1,14 +1,22 @@
-# Marketing Performance Analysis (Task 3)
+# 🚀 FUTURE_DS_03 – Marketing Funnel Analysis
 
-Final dashboard for the Marketing Performance project. This project analyzes campaign success across various demographics using a custom dark-themed UI.
+A high-impact Power BI dashboard designed to analyze marketing campaign performance. This project transforms raw banking data into actionable insights using a modern "Cyberpunk" aesthetic.
 
-## ✨ Final Result
-- **Theme:** Dark Teal with Neon Aqua Accents
-- **KPIs:** Total Audience, Conversions, and Success Rate (11.27%)
-- **Visuals:** Job-based conversion bar chart, monthly success trends, and housing/education breakdowns.
+## 📊 Dashboard Preview
+![Final Dashboard](./Marketing_Dashboard_Image.png)
 
-## 📁 Files included
-- `Task_3.pbix`: The final Power BI file.
-- `bank-additional-full.csv`: Source data.
-- `Marketing_Dashboard_Image.png`: Static preview of the result.
-- `Marketing_Dashboard_Video.mp4`: Walkthrough of the interactive features.
+## 🎯 Key Insights
+- **Total Audience:** 41,188 records analyzed.
+- **Conversions:** 4,640 successful marketing outcomes.
+- **Success Rate:** A solid 11.27% conversion efficiency.
+- **Demographics:** Deep dive into job types, education levels, and housing status.
+
+## 🛠️ Tech Stack
+- **Power BI:** Data Visualization & DAX Modeling.
+- **Git/GitHub:** Version Control.
+- **VS Code:** Documentation & Project Management.
+
+## 📂 Project Structure
+- `Task_3.pbix`: The source Power BI file.
+- `bank-additional-full.csv`: The dataset used for analysis.
+- `Marketing_Dashboard_Video.mp4`: A screen-recording of the interactive dashboard.
